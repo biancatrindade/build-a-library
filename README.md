@@ -21,6 +21,6 @@ I created a library to organize three types of media: **books, CDs, and movies**
 - Getters: all properties
 - Methods: .getAverageRating(), .toggleCheckOutStatus(), and .addRating()
 
-You can check the result in **`build_a_library.js`**.
+You can check the result in [`build_a_library.js`](https://github.com/biancatrindade/build-a-library/blob/main/build_a_library.js).
 
 **See you there!**
